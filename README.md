@@ -11,7 +11,7 @@ I'm [Your Name], a passionate [Your Occupation] from [Your Country].
 - 📫 How to reach me: [Your Contact Information]
 
 ## 🔭 I’m currently working on
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 [Your Project Name], [Your Project Description]
 
 ## 🛠️ Skills
