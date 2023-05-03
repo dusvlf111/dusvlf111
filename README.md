@@ -22,7 +22,7 @@
 - 타오바오나 알리바바의 이미지를 긁어와 중국어와 영어를 지우고 제품상세내역을 번역하여 상세페이지 작성에 용이하도록 하는 프로그램을 제작중입니다 
 #
 <br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dusvlf111&langs_count=4&bg_color=DEG,84fab0,8fd3f4))](https://github.com/anuraghazra/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dusvlf111&line_height=33&&bg_color=DEG,84fab0,8fd3f4)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dusvlf111&line_height=33&&bg_color=DEG,84fab0,8fd3f4)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dusvlf111&langs_count=4&bg_color=DEG,84fab0,8fd3f4)](https://github.com/anuraghazra/github-readme-stats)
 #
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dusvlf5950)](https://solved.ac/dusvlf5950/)
 <br><br><br>
