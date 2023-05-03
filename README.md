@@ -6,10 +6,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dusvlf5950)](https://solved.ac/dusvlf5950/)
 
 <br><br><br>
-## 연락처
-
-
-<br><br><br>
 
 
 
