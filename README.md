@@ -3,6 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dusvlf111)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dusvlf5950)](https://solved.ac/dusvlf5950)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdusvlf111%2Fhit-counter&count_bg=%239B95D5&title_bg=%23D9C3C3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 I'm [Your Name], a passionate [Your Occupation] from [Your Country]. 
 
