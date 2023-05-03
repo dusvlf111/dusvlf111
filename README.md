@@ -1,6 +1,7 @@
 # Hi there! 👋
 
 ![Header Image](https://your-image-url.com)
+https://img.shields.io/badge/-python-yellow
 
 I'm [Your Name], a passionate [Your Occupation] from [Your Country]. 
 
