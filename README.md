@@ -1,7 +1,8 @@
 # Hi there! 👋
 
 ![Header Image](https://your-image-url.com)
-https://img.shields.io/badge/-python-yellow
+![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+[![]https://img.shields.io/badge/-python-yellow
 
 I'm [Your Name], a passionate [Your Occupation] from [Your Country]. 
 
